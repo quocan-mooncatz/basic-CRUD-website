@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to right, #4568dc, #b06ab3);
+}
+.nav-item{
+    padding-left: 30px;
+}
+.carousel-item{
+    height: 697px;
+}
+.carousel-item p{
+    font-size: 20px;
+}
+.carousel-caption{
+    font-size: 25px;
+}
+.col-3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.card{
+    border-radius: 5px;
+}
+.btn{
+    color: white;
+}
+.tieude-sanpham{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+}
+footer
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
